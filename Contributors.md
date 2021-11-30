@@ -3705,4 +3705,5 @@ Disguy
 - [Scott Engelhard] (https://github.com/dudescott)
 - [Lavanya Kumari] (https://github.com/lavanyakumari0)
 - Vince Duarte
+- [Fidel Guajardo](https://github.com/fidoogle)
 <!-- prettier-ignore-end -->
